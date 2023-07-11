@@ -1,0 +1,24 @@
+@import url(index.css);
+@import url(index.header.css);
+@import url(index.about-country.css);
+@import url(index.about-us.css);
+@import url(index.norway.css);
+@import url(index.travel-to-tromso.css);
+
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+img {
+    display: block;
+    width: 100%;
+}
+
+:root {
+    --title-color: #FFFFFF;
+    --title-font-family: 'Playfair Display', serif;
+}
