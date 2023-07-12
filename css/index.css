@@ -6,6 +6,7 @@
 @import url(index.travel-to-tromso.css);
 
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&family=Roboto&display=swap');
 
 * {
     margin: 0;
@@ -20,5 +21,9 @@ img {
 
 :root {
     --title-color: #FFFFFF;
+    --subtitle-color: #505155; 
+    --article-title-color: #232438; 
+    --article-text-color: #A9A9A9;
     --title-font-family: 'Playfair Display', serif;
+    --text-font-family; 'Roboto', sans-serif;
 }
